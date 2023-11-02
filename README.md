@@ -14,7 +14,7 @@
 
 <h2>Acknowledgments</h2>
 
-<b> Python3: https://drive.google.com/file/d/1B5VibXhlzQz9aaz7_ck7NlOkGREgFUHg/view?usp=drive_link <b>
+<b> Python3: http://bit.ly/python3-certifications <b>
 <br>
 
 
