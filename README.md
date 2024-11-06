@@ -1,4 +1,4 @@
-<h1>Calculator - Python Project</h1>
+<h1>Standard Calculator using  Tkinter GUI in Python</h1>
 <br>
 <h2>Features</h2>
 <ul>
